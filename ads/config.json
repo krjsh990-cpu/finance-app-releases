@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "enabled": false,
-  "campaign": null,
+  "enabled": true,
+  "campaign": {
+    "id": "finance-test-001",
+    "title": "إعلان تجريبي — مالياتي",
+    "text": "اختبار نظام الإعلانات فقط",
+    "url": "https://github.com/krjsh990-cpu/finance-app-releases/releases",
+    "startsAt": "2026-11-22T00:00:00Z",
+    "endsAt": "2026-11-24T00:00:00Z"
+  },
   "metricsUrl": "https://finance-ads.krjsh990.workers.dev/event"
 }
