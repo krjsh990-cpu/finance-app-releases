@@ -28,5 +28,10 @@
         }
       ]
     }
-  ]
+  ],
+  "contact": {
+    "sellerName": "إدارة مالياتي",
+    "telegramUrl": "",
+    "whatsappUrl": ""
+  }
 }
