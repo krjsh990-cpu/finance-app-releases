@@ -1,5 +1,6 @@
 {
   "version": 1,
   "enabled": false,
-  "campaign": null
+  "campaign": null,
+  "metricsUrl": "https://finance-ads.krjsh990.workers.dev/event"
 }
